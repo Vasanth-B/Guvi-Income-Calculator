@@ -14,7 +14,7 @@ A fully functional **Income and Expense Calculator** built using **HTML, CSS, an
 ---
 
 ## 🚀 Live Demo
-Check out the live version of the Income Expense Calculator [here](#).
+Check out the live version of the Income Expense Calculator [here](https://income-calculator-guvi.netlify.app/).
 
 ---
 
@@ -28,7 +28,7 @@ Check out the live version of the Income Expense Calculator [here](#).
 ## 🖥️ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/income-expense-calculator.git
+   git clone https://github.com/Vasanth-B/Guvi-Income-Calculator.git
    ```
 2. Navigate to the project folder:
    ```bash
